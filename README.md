@@ -4,7 +4,7 @@
 
 Muslim/student at the Faculty of Electronic Engineering, Department of Computer Engineering and Science, Menoufia University
 
-Skills: C++ / Python / AI / CCNA / Database / Java /Python 
+Skills: C++ / Python / AI / CCNA / Database / Java / Python 
 
 - 🌱 I’m currently learning anything related to the field of data analyst and programming 
 - 👯 I’m looking to collaborate on any company or training in the field of data analyst or software in general 
