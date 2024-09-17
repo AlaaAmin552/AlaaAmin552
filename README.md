@@ -1,10 +1,10 @@
-### Hi there 👋, my name is AlaaAmin
+### Hi there 👋, my name is A'laa Amin
 #### Interested in anything related to the field of data analyst and programming
 ![Interested in anything related to the field of data analyst and programming](https://hr-excellence.net/blog/wp-content/uploads/2022/09/pngegg-9-1024x586.png)
 
 Muslim/student at the Faculty of Electronic Engineering, Department of Computer Engineering and Science, Menoufia University
 
-Skills: C++ / Python / AI / CCNA / Database / Java / Python 
+Skills: C++ / Python / Java / Database /SQL / Excel / Tableau / AI 
 
 - 🌱 I’m currently learning anything related to the field of data analyst and programming 
 - 👯 I’m looking to collaborate on any company or training in the field of data analyst or software in general 
