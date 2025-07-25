@@ -2,9 +2,8 @@
 #### Interested in anything related to the field of data analyst and programming
 ![Interested in anything related to the field of data analyst and programming](https://hr-excellence.net/blog/wp-content/uploads/2022/09/pngegg-9-1024x586.png)
 
-Muslim/student at the Faculty of Electronic Engineering, Department of Computer Engineering and Science, Menoufia University
-
-Skills: C++ / Python / Java / Database / SQL / Excel / Tableau / AI 
+Muslim/Passionate about transforming data into real insights, blending logic, creativity, and purpose through code.
+Skills: C++ / Python / Java / Database / SQL / Excel / Tableau / AI / Power bi / MongoDB
 
 - 🌱 I’m currently learning anything related to the field of data analyst and programming 
 - 👯 I’m looking to collaborate on any company or training in the field of data analyst or software in general 
